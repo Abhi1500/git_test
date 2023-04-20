@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 abnsa cjsad cjsd cjd ooooo
 abnsa cjsad cjsd cjd   n  hdkll;
+=======
+abnsa cjsad cjsd cjd   n  hdkll;
+
+parag changes
+>>>>>>> 6c33a9f1757a9a8581ab4713d9acf0389192521e
